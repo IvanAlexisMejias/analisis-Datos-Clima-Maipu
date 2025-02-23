@@ -1,0 +1,127 @@
+{
+  "2022": {
+    "fecha": "21 de febrero",
+    "ubicacion": "Maipú",
+    "horas": {
+      "00:00": {"temperatura": 14.7, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 55, "velocidad_viento": 4, "rafaga_viento": 6.1, "angulo_viento": 223, "direccion_viento": "SW", "nubosidad": 0.04, "visibilidad": 10},
+      "01:00": {"temperatura": 14.6, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 55, "velocidad_viento": 3.6, "rafaga_viento": 5.6, "angulo_viento": 225, "direccion_viento": "SW", "nubosidad": 0.04, "visibilidad": 10},
+      "02:00": {"temperatura": 14.4, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 56, "velocidad_viento": 3.2, "rafaga_viento": 5.2, "angulo_viento": 226, "direccion_viento": "SW", "nubosidad": 0.04, "visibilidad": 10},
+      "03:00": {"temperatura": 14.3, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 56, "velocidad_viento": 2.9, "rafaga_viento": 4.7, "angulo_viento": 228, "direccion_viento": "SW", "nubosidad": 0.03, "visibilidad": 10},
+      "04:00": {"temperatura": 14.1, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 57, "velocidad_viento": 2.5, "rafaga_viento": 4.2, "angulo_viento": 216, "direccion_viento": "SW", "nubosidad": 0.03, "visibilidad": 10},
+      "05:00": {"temperatura": 13.9, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 58, "velocidad_viento": 2.2, "rafaga_viento": 3.7, "angulo_viento": 204, "direccion_viento": "SSW", "nubosidad": 0.03, "visibilidad": 10},
+      "06:00": {"temperatura": 13.7, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 59, "velocidad_viento": 1.8, "rafaga_viento": 3.2, "angulo_viento": 193, "direccion_viento": "SW", "nubosidad": 0.03, "visibilidad": 10},
+      "07:00": {"temperatura": 15.3, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 53, "velocidad_viento": 2.9, "rafaga_viento": 4.1, "angulo_viento": 219, "direccion_viento": "SW", "nubosidad": 0.04, "visibilidad": 10},
+      "08:00": {"temperatura": 17.0, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 48, "velocidad_viento": 4.0, "rafaga_viento": 4.9, "angulo_viento": 245, "direccion_viento": "WSW", "nubosidad": 0.06, "visibilidad": 10},
+      "09:00": {"temperatura": 18.6, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 43, "velocidad_viento": 5.0, "rafaga_viento": 5.8, "angulo_viento": 272, "direccion_viento": "W", "nubosidad": 0.07, "visibilidad": 10},
+      "10:00": {"temperatura": 21.1, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 38, "velocidad_viento": 6.8, "rafaga_viento": 7.8, "angulo_viento": 274, "direccion_viento": "W", "nubosidad": 0.05, "visibilidad": 10},
+      "11:00": {"temperatura": 23.7, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 34, "velocidad_viento": 8.6, "rafaga_viento": 9.8, "angulo_viento": 277, "direccion_viento": "W", "nubosidad": 0.02, "visibilidad": 10},
+      "12:00": {"temperatura": 26.2, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 29, "velocidad_viento": 10.4, "rafaga_viento": 11.9, "angulo_viento": 279, "direccion_viento": "W", "nubosidad": 0.03, "visibilidad": 10},
+      "13:00": {"temperatura": 27.7, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 28, "velocidad_viento": 11.3, "rafaga_viento": 12.8, "angulo_viento": 274, "direccion_viento": "W", "nubosidad": 0.04, "visibilidad": 10},
+      "14:00": {"temperatura": 29.3, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 26, "velocidad_viento": 12.1, "rafaga_viento": 13.8, "angulo_viento": 270, "direccion_viento": "W", "nubosidad": 0.04, "visibilidad": 10},
+      "15:00": {"temperatura": 30.8, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 25, "velocidad_viento": 13.0, "rafaga_viento": 14.8, "angulo_viento": 265, "direccion_viento": "W", "nubosidad": 0.04, "visibilidad": 10},
+      "16:00": {"temperatura": 28.9, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 28, "velocidad_viento": 14.5, "rafaga_viento": 16.6, "angulo_viento": 259, "direccion_viento": "W", "nubosidad": 0.06, "visibilidad": 10},
+      "17:00": {"temperatura": 27.1, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 31, "velocidad_viento": 16.1, "rafaga_viento": 18.4, "angulo_viento": 265, "direccion_viento": "W", "nubosidad": 0.08, "visibilidad": 10},
+      "18:00": {"temperatura": 25.2, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 33, "velocidad_viento": 17.6, "rafaga_viento": 20.2, "angulo_viento": 265, "direccion_viento": "W", "nubosidad": 0.10, "visibilidad": 10},
+      "19:00": {"temperatura": 22.6, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 39, "velocidad_viento": 13.4, "rafaga_viento": 15.8, "angulo_viento": 259, "direccion_viento": "W", "nubosidad": 0.09, "visibilidad": 10},
+      "20:00": {"temperatura": 20.0, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 45, "velocidad_viento": 9.2, "rafaga_viento": 11.5, "angulo_viento": 253, "direccion_viento": "WSW", "nubosidad": 0.08, "visibilidad": 10},
+      "21:00": {"temperatura": 17.4, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 51, "velocidad_viento": 5.0, "rafaga_viento": 7.2, "angulo_viento": 247, "direccion_viento": "WSW", "nubosidad": 0.07, "visibilidad": 10},
+      "22:00": {"temperatura": 16.8, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 53, "velocidad_viento": 4.7, "rafaga_viento": 6.8, "angulo_viento": 247, "direccion_viento": "WSW", "nubosidad": 0.06, "visibilidad": 10},
+      "23:00": {"temperatura": 16.1, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 56, "velocidad_viento": 4.3, "rafaga_viento": 6.5, "angulo_viento": 247, "direccion_viento": "WSW", "nubosidad": 0.05, "visibilidad": 10}
+    }
+  },
+  
+  "2023": {
+    "fecha": "21 de febrero",
+    "ubicacion": "Maipú",
+    "horas": {
+      "00:00": {"temperatura": 19.8, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 36, "velocidad_viento": 3.6, "rafaga_viento": 6.1, "angulo_viento": 237, "direccion_viento": "WSW", "nubosidad": 0.04, "visibilidad": 10},
+      "01:00": {"temperatura": 19.5, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 36, "velocidad_viento": 3.5, "rafaga_viento": 6.0, "angulo_viento": 235, "direccion_viento": "SW", "nubosidad": 0.04, "visibilidad": 10},
+      "02:00": {"temperatura": 19.2, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 37, "velocidad_viento": 3.4, "rafaga_viento": 5.9, "angulo_viento": 232, "direccion_viento": "SW", "nubosidad": 0.03, "visibilidad": 10},
+      "03:00": {"temperatura": 18.9, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 38, "velocidad_viento": 3.2, "rafaga_viento": 5.8, "angulo_viento": 230, "direccion_viento": "SW", "nubosidad": 0.02, "visibilidad": 10},
+      "04:00": {"temperatura": 18.6, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 39, "velocidad_viento": 3.0, "rafaga_viento": 5.4, "angulo_viento": 222, "direccion_viento": "SW", "nubosidad": 0.01, "visibilidad": 10},
+      "05:00": {"temperatura": 18.4, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 40, "velocidad_viento": 2.8, "rafaga_viento": 5.0, "angulo_viento": 215, "direccion_viento": "SW", "nubosidad": 0.01, "visibilidad": 10},
+      "06:00": {"temperatura": 18.1, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 40, "velocidad_viento": 2.5, "rafaga_viento": 4.7, "angulo_viento": 208, "direccion_viento": "SSW", "nubosidad": 0.00, "visibilidad": 10},
+      "07:00": {"temperatura": 19.8, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 36, "velocidad_viento": 3.0, "rafaga_viento": 4.7, "angulo_viento": 231, "direccion_viento": "SW", "nubosidad": 0.00, "visibilidad": 10},
+      "08:00": {"temperatura": 21.6, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 33, "velocidad_viento": 3.5, "rafaga_viento": 4.7, "angulo_viento": 254, "direccion_viento": "WSW", "nubosidad": 0.00, "visibilidad": 10},
+      "09:00": {"temperatura": 23.3, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 29, "velocidad_viento": 4.0, "rafaga_viento": 4.7, "angulo_viento": 277, "direccion_viento": "W", "nubosidad": 0.00, "visibilidad": 10},
+      "10:00": {"temperatura": 26.3, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 26, "velocidad_viento": 5.8, "rafaga_viento": 6.7, "angulo_viento": 279, "direccion_viento": "W", "nubosidad": 0.01, "visibilidad": 10},
+      "11:00": {"temperatura": 29.4, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 23, "velocidad_viento": 7.6, "rafaga_viento": 8.8, "angulo_viento": 280, "direccion_viento": "W", "nubosidad": 0.02, "visibilidad": 10},
+      "12:00": {"temperatura": 32.4, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 20, "velocidad_viento": 9.4, "rafaga_viento": 10.8, "angulo_viento": 282, "direccion_viento": "WNW", "nubosidad": 0.03, "visibilidad": 10},
+      "13:00": {"temperatura": 32.3, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 19, "velocidad_viento": 11.6, "rafaga_viento": 13.4, "angulo_viento": 277, "direccion_viento": "W", "nubosidad": 0.04, "visibilidad": 10},
+      "14:00": {"temperatura": 32.1, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 19, "velocidad_viento": 13.9, "rafaga_viento": 16.1, "angulo_viento": 273, "direccion_viento": "W", "nubosidad": 0.04, "visibilidad": 10},
+      "15:00": {"temperatura": 32.0, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 18, "velocidad_viento": 16.2, "rafaga_viento": 18.7, "angulo_viento": 268, "direccion_viento": "W", "nubosidad": 0.04, "visibilidad": 10},
+      "16:00": {"temperatura": 30.3, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 20, "velocidad_viento": 15.7, "rafaga_viento": 18.2, "angulo_viento": 267, "direccion_viento": "W", "nubosidad": 0.04, "visibilidad": 10},
+      "17:00": {"temperatura": 28.7, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 22, "velocidad_viento": 15.5, "rafaga_viento": 18.0, "angulo_viento": 265, "direccion_viento": "W", "nubosidad": 0.04, "visibilidad": 10},
+      "18:00": {"temperatura": 27.0, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 24, "velocidad_viento": 14.0, "rafaga_viento": 16.0, "angulo_viento": 262, "direccion_viento": "W", "nubosidad": 0.03, "visibilidad": 10},
+      "19:00": {"temperatura": 25.0, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 27, "velocidad_viento": 11.8, "rafaga_viento": 14.2, "angulo_viento": 259, "direccion_viento": "W", "nubosidad": 0.05, "visibilidad": 10},
+      "20:00": {"temperatura": 23.1, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 29, "velocidad_viento": 8.0, "rafaga_viento": 10.3, "angulo_viento": 259, "direccion_viento": "W", "nubosidad": 0.05, "visibilidad": 10},
+      "21:00": {"temperatura": 21.1, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 32, "velocidad_viento": 4.3, "rafaga_viento": 6.5, "angulo_viento": 256, "direccion_viento": "WSW", "nubosidad": 0.04, "visibilidad": 10},
+      "22:00": {"temperatura": 20.3, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 34, "velocidad_viento": 4.2, "rafaga_viento": 6.6, "angulo_viento": 248, "direccion_viento": "WSW", "nubosidad": 0.04, "visibilidad": 10},
+      "23:00": {"temperatura": 19.6, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 36, "velocidad_viento": 4.1, "rafaga_viento": 6.7, "angulo_viento": 241, "direccion_viento": "WSW", "nubosidad": 0.04, "visibilidad": 10}
+    }
+  },
+  
+  "2024": {
+    "fecha": "21 de febrero",
+    "ubicacion": "Maipú",
+    "horas": {
+      "00:00": {"temperatura": 18.0, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 66, "velocidad_viento": 4.7, "rafaga_viento": 7.1, "angulo_viento": 257, "direccion_viento": "WSW", "nubosidad": 0.08, "visibilidad": 10},
+      "01:00": {"temperatura": 17.5, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 68, "velocidad_viento": 4.0, "rafaga_viento": 6.2, "angulo_viento": 233, "direccion_viento": "SW", "nubosidad": 0.07, "visibilidad": 10},
+      "02:00": {"temperatura": 17.2, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 69, "velocidad_viento": 4.0, "rafaga_viento": 6.2, "angulo_viento": 261, "direccion_viento": "W", "nubosidad": 0.08, "visibilidad": 10},
+      "03:00": {"temperatura": 16.9, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 70, "velocidad_viento": 4.3, "rafaga_viento": 6.8, "angulo_viento": 242, "direccion_viento": "WSW", "nubosidad": 0.08, "visibilidad": 10},
+      "04:00": {"temperatura": 16.5, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 72, "velocidad_viento": 4.3, "rafaga_viento": 6.8, "angulo_viento": 249, "direccion_viento": "WSW", "nubosidad": 0.09, "visibilidad": 10},
+      "05:00": {"temperatura": 16.1, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 74, "velocidad_viento": 3.6, "rafaga_viento": 5.7, "angulo_viento": 243, "direccion_viento": "WSW", "nubosidad": 0.11, "visibilidad": 10},
+      "06:00": {"temperatura": 15.8, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 75, "velocidad_viento": 3.6, "rafaga_viento": 5.7, "angulo_viento": 252, "direccion_viento": "WSW", "nubosidad": 0.13, "visibilidad": 10},
+      "07:00": {"temperatura": 16.2, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 73, "velocidad_viento": 4.0, "rafaga_viento": 5.8, "angulo_viento": 240, "direccion_viento": "WSW", "nubosidad": 0.14, "visibilidad": 10},
+      "08:00": {"temperatura": 17.7, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 66, "velocidad_viento": 4.3, "rafaga_viento": 5.1, "angulo_viento": 253, "direccion_viento": "WSW", "nubosidad": 0.15, "visibilidad": 10},
+      "09:00": {"temperatura": 20.0, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 57, "velocidad_viento": 5.8, "rafaga_viento": 6.6, "angulo_viento": 282, "direccion_viento": "WNW", "nubosidad": 0.16, "visibilidad": 10},
+      "10:00": {"temperatura": 22.1, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 50, "velocidad_viento": 7.2, "rafaga_viento": 8.3, "angulo_viento": 279, "direccion_viento": "W", "nubosidad": 0.15, "visibilidad": 10},
+      "11:00": {"temperatura": 24.3, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 44, "velocidad_viento": 7.9, "rafaga_viento": 9.1, "angulo_viento": 282, "direccion_viento": "WNW", "nubosidad": 0.14, "visibilidad": 10},
+      "12:00": {"temperatura": 26.2, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 40, "velocidad_viento": 10.4, "rafaga_viento": 12.0, "angulo_viento": 277, "direccion_viento": "W", "nubosidad": 0.13, "visibilidad": 10},
+      "13:00": {"temperatura": 27.6, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 37, "velocidad_viento": 11.9, "rafaga_viento": 13.7, "angulo_viento": 274, "direccion_viento": "W", "nubosidad": 0.12, "visibilidad": 10},
+      "14:00": {"temperatura": 28.7, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 33, "velocidad_viento": 13.3, "rafaga_viento": 15.3, "angulo_viento": 271, "direccion_viento": "W", "nubosidad": 0.10, "visibilidad": 10},
+      "15:00": {"temperatura": 29.2, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 29, "velocidad_viento": 16.6, "rafaga_viento": 19.0, "angulo_viento": 265, "direccion_viento": "W", "nubosidad": 0.07, "visibilidad": 10},
+      "16:00": {"temperatura": 28.0, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 30, "velocidad_viento": 21.2, "rafaga_viento": 24.4, "angulo_viento": 263, "direccion_viento": "W", "nubosidad": 0.05, "visibilidad": 10},
+      "17:00": {"temperatura": 25.8, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 35, "velocidad_viento": 20.5, "rafaga_viento": 23.6, "angulo_viento": 262, "direccion_viento": "W", "nubosidad": 0.06, "visibilidad": 10},
+      "18:00": {"temperatura": 23.2, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 41, "velocidad_viento": 15.8, "rafaga_viento": 18.2, "angulo_viento": 261, "direccion_viento": "W", "nubosidad": 0.08, "visibilidad": 10},
+      "19:00": {"temperatura": 20.6, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 49, "velocidad_viento": 10.8, "rafaga_viento": 12.6, "angulo_viento": 265, "direccion_viento": "W", "nubosidad": 0.10, "visibilidad": 10},
+      "20:00": {"temperatura": 18.4, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 56, "velocidad_viento": 6.5, "rafaga_viento": 8.7, "angulo_viento": 273, "direccion_viento": "W", "nubosidad": 0.14, "visibilidad": 10},
+      "21:00": {"temperatura": 17.5, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 60, "velocidad_viento": 5.8, "rafaga_viento": 8.5, "angulo_viento": 264, "direccion_viento": "W", "nubosidad": 0.17, "visibilidad": 10},
+      "22:00": {"temperatura": 16.8, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 62, "velocidad_viento": 6.1, "rafaga_viento": 8.5, "angulo_viento": 262, "direccion_viento": "W", "nubosidad": 0.24, "visibilidad": 10},
+      "23:00": {"temperatura": 16.2, "clima": "Parcialmente nublado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 65, "velocidad_viento": 4.7, "rafaga_viento": 6.7, "angulo_viento": 246, "direccion_viento": "WSW", "nubosidad": 0.32, "visibilidad": 10}
+    }
+  },
+  
+  "2025": {
+    "fecha": "21 de febrero",
+    "ubicacion": "Maipú",
+    "horas": {
+      "00:00": {"temperatura": 17.4, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 57, "velocidad_viento": 2.5, "rafaga_viento": 4.2, "angulo_viento": 215, "direccion_viento": "SW", "nubosidad": 0.00, "visibilidad": 10},
+      "01:00": {"temperatura": 17.3, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 56, "velocidad_viento": 2.9, "rafaga_viento": 5.0, "angulo_viento": 199, "direccion_viento": "SSW", "nubosidad": 0.00, "visibilidad": 10},
+      "02:00": {"temperatura": 17.3, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 55, "velocidad_viento": 3.6, "rafaga_viento": 6.4, "angulo_viento": 203, "direccion_viento": "SSW", "nubosidad": 0.00, "visibilidad": 10},
+      "03:00": {"temperatura": 17.4, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 54, "velocidad_viento": 2.5, "rafaga_viento": 4.6, "angulo_viento": 202, "direccion_viento": "SSW", "nubosidad": 0.00, "visibilidad": 10},
+      "04:00": {"temperatura": 17.2, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 54, "velocidad_viento": 2.9, "rafaga_viento": 5.3, "angulo_viento": 187, "direccion_viento": "S", "nubosidad": 0.00, "visibilidad": 10},
+      "05:00": {"temperatura": 17.1, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 53, "velocidad_viento": 2.2, "rafaga_viento": 4.1, "angulo_viento": 218, "direccion_viento": "SW", "nubosidad": 0.00, "visibilidad": 10},
+      "06:00": {"temperatura": 16.9, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 54, "velocidad_viento": 1.8, "rafaga_viento": 3.5, "angulo_viento": 155, "direccion_viento": "SSE", "nubosidad": 0.00, "visibilidad": 10},
+      "07:00": {"temperatura": 17.7, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 51, "velocidad_viento": 1.8, "rafaga_viento": 3.2, "angulo_viento": 208, "direccion_viento": "SSW", "nubosidad": 0.05, "visibilidad": 10},
+      "08:00": {"temperatura": 19.9, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 44, "velocidad_viento": 2.5, "rafaga_viento": 3.3, "angulo_viento": 230, "direccion_viento": "SW", "nubosidad": 0.15, "visibilidad": 10},
+      "09:00": {"temperatura": 22.3, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 37, "velocidad_viento": 1.8, "rafaga_viento": 2.1, "angulo_viento": 235, "direccion_viento": "SW", "nubosidad": 0.09, "visibilidad": 10},
+      "10:00": {"temperatura": 25.0, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 31, "velocidad_viento": 2.9, "rafaga_viento": 3.3, "angulo_viento": 284, "direccion_viento": "WNW", "nubosidad": 0.05, "visibilidad": 10},
+      "11:00": {"temperatura": 27.2, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 27, "velocidad_viento": 7.2, "rafaga_viento": 8.3, "angulo_viento": 279, "direccion_viento": "W", "nubosidad": 0.15, "visibilidad": 10},
+      "12:00": {"temperatura": 29.2, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 23, "velocidad_viento": 9.0, "rafaga_viento": 10.4, "angulo_viento": 277, "direccion_viento": "W", "nubosidad": 0.02, "visibilidad": 10},
+      "13:00": {"temperatura": 30.8, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 21, "velocidad_viento": 9.4, "rafaga_viento": 10.8, "angulo_viento": 280, "direccion_viento": "W", "nubosidad": 0.03, "visibilidad": 10},
+      "14:00": {"temperatura": 31.9, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 20, "velocidad_viento": 13.0, "rafaga_viento": 14.9, "angulo_viento": 277, "direccion_viento": "W", "nubosidad": 0.12, "visibilidad": 10},
+      "15:00": {"temperatura": 32.3, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 19, "velocidad_viento": 14.4, "rafaga_viento": 16.6, "angulo_viento": 271, "direccion_viento": "W", "nubosidad": 0.04, "visibilidad": 10},
+      "16:00": {"temperatura": 32.2, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 19, "velocidad_viento": 16.2, "rafaga_viento": 18.6, "angulo_viento": 268, "direccion_viento": "W", "nubosidad": 0.02, "visibilidad": 10},
+      "17:00": {"temperatura": 30.6, "clima": "Parcialmente nublado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 20, "velocidad_viento": 19.4, "rafaga_viento": 22.4, "angulo_viento": 269, "direccion_viento": "W", "nubosidad": 0.32, "visibilidad": 10},
+      "18:00": {"temperatura": 28.5, "clima": "Soleado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 22, "velocidad_viento": 14.0, "rafaga_viento": 16.2, "angulo_viento": 276, "direccion_viento": "W", "nubosidad": 0.22, "visibilidad": 10},
+      "19:00": {"temperatura": 25.8, "clima": "Parcialmente nublado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 25, "velocidad_viento": 9.4, "rafaga_viento": 12.1, "angulo_viento": 270, "direccion_viento": "W", "nubosidad": 0.33, "visibilidad": 10},
+      "20:00": {"temperatura": 23.1, "clima": "Parcialmente nublado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 29, "velocidad_viento": 6.1, "rafaga_viento": 9.8, "angulo_viento": 259, "direccion_viento": "W", "nubosidad": 0.43, "visibilidad": 10},
+      "21:00": {"temperatura": 21.8, "clima": "Parcialmente nublado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 32, "velocidad_viento": 5.4, "rafaga_viento": 8.7, "angulo_viento": 252, "direccion_viento": "WSW", "nubosidad": 0.32, "visibilidad": 10},
+      "22:00": {"temperatura": 21.1, "clima": "Parcialmente nublado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 34, "velocidad_viento": 5.0, "rafaga_viento": 8.2, "angulo_viento": 246, "direccion_viento": "WSW", "nubosidad": 0.38, "visibilidad": 10},
+      "23:00": {"temperatura": 20.3, "clima": "Despejado", "precipitaciones": 0.0, "probabilidad_nevada": 0.00, "humedad": 36, "velocidad_viento": 3.2, "rafaga_viento": 5.5, "angulo_viento": 223, "direccion_viento": "SW", "nubosidad": 0.12, "visibilidad": 10}
+    }
+  }
+}
+
+
